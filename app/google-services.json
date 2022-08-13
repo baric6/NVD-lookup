@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122147255830",
+    "firebase_url": "https://cvedb-af69b-default-rtdb.firebaseio.com",
+    "project_id": "cvedb-af69b",
+    "storage_bucket": "cvedb-af69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122147255830:android:e725147e9a511c1e026737",
+        "android_client_info": {
+          "package_name": "com.baric.hacking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122147255830-t36h05pnj9dk3q9ue2r8h295gtsofecp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAJjUJaTzY6iRNMM0ose4Lq0SgQTlBCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122147255830-t36h05pnj9dk3q9ue2r8h295gtsofecp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
